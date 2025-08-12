@@ -20,7 +20,7 @@ The research covers:
 ---
 
 ##  Repository Contents
-- **[`thesis.pdf`](ice_18309168.pdf)** — Full thesis document with complete research, methodology, results, and conclusions.
+- **[thesis.pdf](ice_18390168.pdf)** — Full thesis document with complete research, methodology, results, and conclusions.
 - **MATLAB Simulation Files**:
   - `doppler_shift_effect.m` — Models Doppler shift in satellite communication links.
   - `nb_iot_analysis.m` — Analyzes NB-IoT performance over satellite networks.
