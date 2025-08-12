@@ -42,9 +42,9 @@ The research covers:
 
 ## Contact
 If you have questions about this work or would like to collaborate, feel free to connect:  
-- **Email:** [your.email@example.com]  
-- **LinkedIn:** [your-linkedin-profile]  
-- **GitHub:** [your-github-profile]
+- **Email:** koutsodimostakis@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/meletios-koutsodimos-499351264/
+- **GitHub:** https://github.com/TakKouts
 
 ---
 
