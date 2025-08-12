@@ -49,3 +49,5 @@ If you have questions about this work or would like to collaborate, feel free to
 ---
 
 **License:** MIT — Free to use with attribution.
+
+<!-- Keywords: satellite communications, 5G, beyond 5G, MATLAB, link budget, Doppler shift, NB-IoT, optical links, Starlink, thesis -->
