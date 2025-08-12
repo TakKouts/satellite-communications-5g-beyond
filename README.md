@@ -9,7 +9,7 @@
 ---
 
 ## Thesis Overview
-This repository contains my Master’s thesis, *"The Evolution in Satellite Communications: 5G and Beyond"*, which explores advancements in satellite communication technologies, their integration with 5G networks, and potential future developments beyond 5G.
+This repository contains my Integrated Masters’s thesis, *"The Evolution in Satellite Communications: 5G and Beyond"*, which explores advancements in satellite communication technologies, their integration with 5G networks, and potential future developments beyond 5G.
 
 The research covers:
 - Evolution of satellite communication systems
